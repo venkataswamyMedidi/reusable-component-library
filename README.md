@@ -39,6 +39,16 @@ function App() {
 
 export default App
 ```
+# Reusable Modal Component Library
+
+A simple and reusable modal component built with React, styled with CSS, and tested using Jest and React Testing Library. This library provides a flexible modal with customizable features, including content, title, and dismiss actions such as closing on clicking outside or pressing the ESC key.
+
+## Features
+
+- **Customizable Modal**: Easily configurable modal with title, content, and a close button.
+- **Closable on ESC**: Closes the modal when the ESC key is pressed.
+- **Dismissable by Clicking Outside**: Closes the modal when clicking outside the modal area.
+- **Tested**: Includes tests for rendering and interaction behavior using Jest and React Testing Library.
 
 ## Developer Experience Improvements
 
